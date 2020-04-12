@@ -196,7 +196,7 @@ SpeechRecognition==3.8.1
 srsly==0.2.0
 tabulate==0.8.6
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.0.1
 tensorflow-estimator==2.0.1
 tensorflow-tensorboard==0.1.8
 termcolor==1.1.0
