@@ -7,7 +7,7 @@ audioread==2.1.8
 Augmentor==0.2.8
 backcall==0.1.0
 binaryornot==0.4.4
-bleach==1.5.0
+bleach==3.1.4
 blis==0.4.1
 boto==2.49.0
 boto3==1.9.234
