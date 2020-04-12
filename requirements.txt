@@ -214,7 +214,7 @@ transformers==2.3.0
 tweepy==3.8.0
 twilio==6.35.0
 txt2txt==1.0.9
-urllib3==1.22
+urllib3==1.24.2
 vaderSentiment==3.2.1
 virtualenv==16.7.5
 visitor==0.1.3
