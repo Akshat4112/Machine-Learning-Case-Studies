@@ -33,7 +33,7 @@ print("[INFO] compiling model ...")
 
 opt = SGD(lr = 0.005)
 model = ShallowNet.build(width = 32, height = 32, depth = 3, classes = 3)
-model.compile(loss="categorical_crossentropy", optimizer=opt, metrics=["accuracy"])
+model.compile(loss="categorical_crossentropy", optimizer=opt, metrics=["acc"])
 
 print("[INFO] training Network ...")
 H = model.fit(trainX, trainY, validation_data=(testX, testY), batch_size=32, epochs=100, verbose=1)
