@@ -32,3 +32,4 @@ for i in range(0, args["num_images"]):
     except:
         print("[INFO] error downloading image...")
         time.sleep(0.1)
+        
